@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341571368933",
+    "project_id": "captcha-money-21481",
+    "storage_bucket": "captcha-money-21481.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341571368933:android:c61b6906562af118a1610c",
+        "android_client_info": {
+          "package_name": "com.captcha.money"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG175ajrpQ4EQiRRa4wxWpI5D_dtsQOts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
